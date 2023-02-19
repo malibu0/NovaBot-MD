@@ -17,7 +17,6 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
       if (!img) throw `Y la imagen? responde a una imagen o video`
       let out
       try {
-m.reply ("𓌝𓂅⸙͎❒︴Cᴀʀɢᴀɴᴅᴏ% ╰─➣𝐀𝐠𝐮𝐚𝐫𝐝𝐞 𝐮𝐧 𝙢𝙤𝙢𝙚𝙣𝙩𝙤 ⸙͎༉⁹⁹⁹")
         stiker = await sticker(img, false, f, g)
       } catch (e) {
         console.error(e)
@@ -32,7 +31,7 @@ m.reply ("𓌝𓂅⸙͎❒︴Cᴀʀɢᴀɴᴅᴏ% ╰─➣𝐀𝐠𝐮𝐚𝐫�
       }
     } else if (args[0]) {
       if (isUrl(args[0])) stiker = await sticker(false, args[0], global.packname, global.author)
-      else return m.reply('URL invalido')
+      else return m.reply (" 𓌝𓂅⸙͎❒︴Cᴀʀɢᴀɴᴅᴏ% ╰─➣𝐀𝐠𝐮𝐚𝐫𝐝𝐞 𝐮𝐧 𝙢𝙤𝙢𝙚𝙣𝙩𝙤 ⸙͎༉⁹⁹⁹ ")
     }
   } catch (e) {
     console.error(e)
