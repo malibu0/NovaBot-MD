@@ -3,8 +3,6 @@ import uploadFile from '../lib/uploadFile.js'
 import uploadImage from '../lib/uploadImage.js'
 import { webp2png } from '../lib/webp2mp4.js'
 
-m.reply ("𓌝𓂅⸙͎❒︴Cᴀʀɢᴀɴᴅᴏ% ╰─➣𝐀𝐠𝐮𝐚𝐫𝐝𝐞 𝐮𝐧 𝙢𝙤𝙢𝙚𝙣𝙩𝙤 ⸙͎༉⁹⁹⁹")
-
 let handler = async (m, { conn, args, usedPrefix, command }) => {
   let stiker = false
        let stick = args.join(" ").split("|");
@@ -19,6 +17,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
       if (!img) throw `Y la imagen? responde a una imagen o video`
       let out
       try {
+m.reply ("𓌝𓂅⸙͎❒︴Cᴀʀɢᴀɴᴅᴏ% ╰─➣𝐀𝐠𝐮𝐚𝐫𝐝𝐞 𝐮𝐧 𝙢𝙤𝙢𝙚𝙣𝙩𝙤 ⸙͎༉⁹⁹⁹")
         stiker = await sticker(img, false, f, g)
       } catch (e) {
         console.error(e)
