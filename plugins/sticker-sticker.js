@@ -21,6 +21,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
       } catch (e) {
         console.error(e)
       } finally {
+      await conn.reply(m.chat, `⏳ *Aguarde un momento estoy creador tu stickers....*`, m)
         if (!stiker) {
           if (/webp/g.test(mime)) out = await webp2png(img)
           else if (/image/g.test(mime)) out = await uploadImage(img)
