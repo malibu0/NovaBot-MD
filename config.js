@@ -70,7 +70,7 @@ global.vs = '1.5.0'
 global.lb = 'ɴᴏᴠᴀʙᴏᴛ-ᴍᴅ'
 global.lolibot = lb
 
-global.dygp = 'https://chat.whatsapp.com/FfiQUYDDtaG9bwaI7UKMAR' //grupo del bot
+global.dygp = 'https://chat.whatsapp.com/I3qjtQABJPaB65i2uhGe81' //grupo del bot
 
 global.nna = 'https://chat.whatsapp.com/JESaesjOEcB6wnGX0QYT9o' //UPDATE
 
