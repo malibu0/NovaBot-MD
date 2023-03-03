@@ -7,13 +7,16 @@ m.reply(`
 *➤ ɢʀᴜᴘᴏs ᴏғɪᴄɪᴀʟᴇs ᴅᴇʟ ʙᴏᴛ:*
 1) https://chat.whatsapp.com/LZFE2MHvEkY7b69TmAGmHR
 
-2) https://chat.whatsapp.com/IIteN3dd6rG87b2liETl2o
+2) https://chat.whatsapp.com/GUlSx2eoanhBPssKzuA48c
 
 ɢʀᴜᴘᴏ ᴅᴇʟ ᴄᴏʟᴀʙᴏʀᴀᴄɪᴏɴ ɢᴀᴛᴀʙᴏᴛ-ᴍᴅ ʏ ʟᴏʟɪʙᴏᴛ-ᴍᴅ 
 https://chat.whatsapp.com/CcJKHrxGBWAAH3PiBL07JS
 
+ɢʀᴜᴘᴏ ᴅᴇʟ ᴄᴏʟᴀʙᴏʀᴀᴄɪᴏɴ ɴᴏᴠᴀʙᴏᴛ ʏ ᴅᴀʙɪʙᴏᴛ-ᴍᴅ
+https://chat.whatsapp.com/HZmxLIsZRbYE37xRV9XQYU
+
 ɢʀᴜᴘᴏ ᴅᴇʟ ᴄᴏʟ ² (ᴀǫᴜɪ sᴇ ᴘᴇʀᴍɪᴛᴇ ᴛᴏᴅᴏ ʟᴏs ᴄᴏᴍᴀɴᴅᴏs ᴅᴇʟ ʙᴏᴛ)
-https://chat.whatsapp.com/FfiQUYDDtaG9bwaI7UKMAR
+https://chat.whatsapp.com/I3qjtQABJPaB65i2uhGe81
 
 ɪɴғᴏᴍᴀʀᴛᴇ sᴏʙʀᴇ ʟᴀs ɴᴜᴇᴠᴀs ᴀᴄᴛᴜᴀʟɪᴢᴀᴄɪᴏɴᴇs ᴅᴇʟ ʙᴏᴛ ᴀǫᴜɪ 
 https://chat.whatsapp.com/JESaesjOEcB6wnGX0QYT9o
@@ -31,7 +34,7 @@ https://chat.whatsapp.com/DCJclB8oBAPIAoleUtNEaN
 https://chat.whatsapp.com/JZaD3sfNoVW4JvaoQ4uVwF
 
 *⇶⃤꙰𝑬𝒏𝒍𝒂𝒄𝒆 𝒍𝒐𝒍𝒊𝒃𝒐𝒕ꦿ⃟⃢*
-https://chat.whatsapp.com/DsFPvTLFDQaBroutCnD2DO
+https://chat.whatsapp.com/DjZMclVofPaHhw9E2ptunM
 ᴀǫᴜɪ ᴘᴜᴇᴅᴇ ᴍᴀɴᴅᴀ ᴛᴜ ᴇɴʟᴀᴄᴇ ʏ ᴛᴀᴍʙɪᴇɴ sɪ ǫᴜɪᴇʀᴇ ᴜɴ ʙᴏᴛ ᴘᴀʀᴀ ᴛᴜ ɢʀᴜᴘᴏ ᴘᴏɴᴇʀ ᴇʟ ᴄᴏᴍᴀɴᴅᴏ .ᴊᴏɪɴ (ᴍᴀs ᴇɴʟᴀᴄᴇ)
 
 *꧁⃢⃟҉💫🌺ঔঔ𝔼ℕ𝕃𝔸ℂ𝔼𝕊 𝕃𝔸 𝕁𝔼𝔽𝔸✨*
