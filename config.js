@@ -71,7 +71,7 @@ global.lb = 'ɴᴏᴠᴀʙᴏᴛ-ᴍᴅ'
 global.lolibot = lb
 
 global.dygp = 'https://chat.whatsapp.com/I3qjtQABJPaB65i2uhGe81' //grupo del bot
-
+global.nn = 'https://chat.whatsapp.com/HZmxLIsZRbYE37xRV9XQYU' //Grupo Colaboración 
 global.nna = 'https://chat.whatsapp.com/JESaesjOEcB6wnGX0QYT9o' //UPDATE
 
 global.fglog = 'https://telegra.ph/file/1861aab98389b13db8588.png' 
