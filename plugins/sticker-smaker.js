@@ -7,17 +7,17 @@ let handler = async (m, { conn, usedPrefix, text, command }) => {
 let effect = text.trim().toLowerCase()
 if (!effects.includes(effect)) throw `
 
-┌─⊷ *EFECTOS*
-${effects.map(effect => `▢ ${effect}`).join('\n')}
-└───────────
+┏─━─━─━∞ 🅔🅕🅔🅒🅣🅞🅢 ∞━─━─━─┓
+┃${effects.map(effect => `🔸️ ${effect}`).join('\n')}
+┗─━─━─━∞◆∞━─━─━─┛
 
-📌 *Ejemplo:* 
+📌 *ᴇᴊᴇᴍᴘʟᴏ:* 
 ${usedPrefix + command} wasted 
 `.trim()
 let q = m.quoted ? m.quoted : m
 let mime = (q.msg || q).mimetype || ''
-if (!mime) throw '✳️ Responde a una imagen'
-if (!/image\/(jpe?g|png)/.test(mime)) throw `✳️ Formato no soportado`
+if (!mime) throw '✳️ ʀᴇsᴘᴏɴᴅᴇ ᴀ ᴜɴᴀ ɪᴍᴀɢᴇɴ'
+if (!/image\/(jpe?g|png)/.test(mime)) throw `✳️ ғᴏʀᴍᴀᴛᴏ ɴᴏ sᴏᴘᴏʀᴛᴀᴅᴏ`
 let img = await q.download()
 let url = await uploadImage(img)
 let apiUrl = global.API('https://some-random-api.ml/canvas/', encodeURIComponent(effect), {

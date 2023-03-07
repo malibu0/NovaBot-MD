@@ -2,8 +2,8 @@
 let { downloadContentFromMessage } = (await import('@adiwajshing/baileys'));
 
 let handler = async (m, { conn }) => {
-    if (!m.quoted) throw '✳️ Responde a un mensaje'
-    if (m.quoted.mtype !== 'viewOnceMessageV2') throw '✳️ Eso no es un mensaje de viewOnce'
+    if (!m.quoted) throw '🔸️ ʀᴇsᴘᴏɴᴅᴇ ᴀ ᴜɴ ᴍᴇɴsᴀᴊᴇ'
+    if (m.quoted.mtype !== 'viewOnceMessageV2') throw '✳️ ᴇsᴏ ɴᴏ ᴇs ᴜɴ ᴍᴇɴsᴀᴊᴇ ᴅᴇ ᴠɪᴇᴡᴏɴᴄᴇ'
     let msg = m.quoted.message
     let type = Object.keys(msg)[0]
     let media = await downloadContentFromMessage(msg[type], type == 'imageMessage' ? 'image' : 'video')
