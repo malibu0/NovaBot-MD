@@ -7,6 +7,7 @@ let nombre = 'LoliBot-MD'
 let nombre2 = 'y NovaBot-MD'
  
 const s = [
+'https://telegra.ph/file/f61a7c96f3f86b6c5214f.png',
 'https://media.makeameme.org/created/uh-ok-5ca824.jpg',
 'https://i.pinimg.com/originals/9a/da/00/9ada0026337e175c787b9b47a3cd3de5.jpg',
 'https://media1.giphy.com/media/QYwB8ai7mtORGRAxJZ/giphy.gif?cid=ecf05e47onuz2cet71x6d3wizozphrhkow9u7ucskq1uzhkw&rid=giphy.gif&ct=g',
