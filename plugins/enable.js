@@ -17,8 +17,11 @@ const sections = [
 	{title: "DECTEC", rowId: `${usedPrefix + command} detect`},
 	{title: "DOCUMENT", rowId: `${usedPrefix + command} document`},
 	{title: "RESTRICT", rowId: `${usedPrefix + command} restrict`},
+	    {title: "PROHIBIDO MALA PALABRA", rowId: `${usedPrefix + command} antitoxic`},
+		{title: "ANTIPRIVADO", rowId: `${usedPrefix + command} antiprivado`},
+       {title: "ANTICALL", rowId: `${usedPrefix + command} anticall`},
+      {title: "MODOJADIBOT", rowId: `${usedPrefix + command} modejadibot`},
 	{title: "SOLO PRIVADO", rowId: `${usedPrefix + command} onlydm`},
-	{title: "PROHIBIDO MALA PALABRA", rowId: `${usedPrefix + command} antitoxic`},
 	{title: "ANTITRABA", rowId: `${usedPrefix + command} antitraba`},
 	{title: "SOLO GRUPOS", rowId: `${usedPrefix + command} onlygp`}
 	]
@@ -183,6 +186,23 @@ throw false
 }
 bot.modejadibot = isEnable
 break        
+
+case 'anticall':
+isAll = true
+if (!isROwner) {
+global.dfail('rowner', m, conn)
+throw false
+}
+bot.antiCall = isEnable
+break
+case 'antiprivado':
+isAll = true
+if (!isROwner) {
+global.dfail('rowner', m, conn)
+throw false
+}
+bot.antiPrivate = isEnable
+break
 
     case 'onlypv':
     case 'onlydm':
