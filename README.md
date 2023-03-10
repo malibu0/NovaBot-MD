@@ -103,6 +103,6 @@ NovaBot-MD todavía no está terminado bot el desarrollo✨
 ## `👑Colaboradores👑` 
 [![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
 [![Misaelsharkbot](https://github.com/Misaelsharkbot.png?size=100)](https://github.com/Misaelsharkbot)
-[![Azamiwithlogic](https://github.com/AzamiWithLogic.png?size=100)](https://github.com/AzamiWithlogic)
+[![Azami19](https://github.com/Azami19.png?size=100)](https://github.com/Azami19)
 [![antonio32114](https://github.com/Antonio32114.png?size=100)](https://github.com/Antonio32114)
 [![OFC-YOVANI](https://github.com/OFC-YOVANI.png?size=100)](https://github.com/OFC-YOVANI)
