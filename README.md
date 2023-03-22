@@ -70,6 +70,15 @@ NovaBot-MD todavía no está terminado bot el desarrollo✨
 > npm start
 ```
 
+### `🔥 OBTENER OTRO CODIGO QR🔥`
+```bash
+ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+> cd 
+> cd NovaBot-MD
+> rm -rf session.data.json
+> npm start
+```
+
 ## 𝐀𝐜𝐭𝐢𝐯𝐚 𝐞𝐥 𝐡𝐞𝐫𝐨𝐤𝐮
 𝐏𝐚𝐫𝐚 𝐮𝐬𝐮𝐚𝐫𝐢𝐨 𝐝𝐞 𝐡𝐞𝐫𝐨𝐤𝐮
 
