@@ -76,8 +76,8 @@ global.loadDatabase = async function loadDatabase() {
 loadDatabase()
 
 //-- SESSION
-global.authFile = `${opts._[0] || 'session'}.data.json`
-const { state, saveState } = store.useSingleFileAuthState(global.authFile)
+//global.authFile = `${opts._[0] || 'session'}.data.json`
+//const { state, saveState } = store.useSingleFileAuthState(global.authFile)
 global.authFile = `sessions`
 const { state, saveState, saveCreds } = await useMultiFileAuthState(global.authFile)
 
