@@ -1,6 +1,6 @@
 { 
 "name": "NovaBot-MD",
-"version": "1.4.7", 
+"version": "2.2.2", 
 "description": "Super Bot WhatsApp",
 "main": "index.js",
 "type": "module",
